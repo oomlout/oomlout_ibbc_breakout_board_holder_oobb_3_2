@@ -27,14 +27,14 @@ A breakout board holder for ibbc interface boards.
 ## working_parts
 | designator | oomp_key | placed | note | position_x | position_y | rotation | offset_x | offset_y | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| H1 | [oomp_electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oomp_electronic_mounting_hole_m3) |  |  | -15 | -7.5 |  |  |  | 
-| H2 | [oomp_electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oomp_electronic_mounting_hole_m3) |  |  | -15 | 7.5 |  |  |  | 
-| H3 | [oomp_electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oomp_electronic_mounting_hole_m3) |  |  | 15 | -7.5 |  |  |  | 
-| H4 | [oomp_electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oomp_electronic_mounting_hole_m3) |  |  | 15 | 7.5 |  |  |  | 
-| J1 | [oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle) |  |  | 15 | 0 | 90 |  |  | 
-| J2 | [oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle) |  |  | -15 | 0 | -90 |  |  | 
-| U1 | [oomp_electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oomp_electronic_interposer_soic_14_wide_i2c_landing) |  |  | -4 | -2 |  |  |  | 
-| J3 | [oomp_electronic_header_2d54_mm_6_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oomp_electronic_header_2d54_mm_6_pin) |  |  | -6.35 | 10.16 | 90 |  |  | 
-| J4 | [oomp_electronic_header_2d54_mm_6_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oomp_electronic_header_2d54_mm_6_pin) |  |  | 6.35 | -10.16 | -90 |  |  | 
+| H1 | [oomp_electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3) |  |  | -15 | -7.5 |  |  |  | 
+| H2 | [oomp_electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3) |  |  | -15 | 7.5 |  |  |  | 
+| H3 | [oomp_electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3) |  |  | 15 | -7.5 |  |  |  | 
+| H4 | [oomp_electronic_mounting_hole_m3](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3) |  |  | 15 | 7.5 |  |  |  | 
+| J1 | [oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle) |  |  | 15 | 0 | 90 |  |  | 
+| J2 | [oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle) |  |  | -15 | 0 | -90 |  |  | 
+| U1 | [oomp_electronic_interposer_soic_14_wide_i2c_landing](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing) |  |  | -4 | -2 |  |  |  | 
+| J3 | [oomp_electronic_header_2d54_mm_6_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_6_pin) |  |  | -6.35 | 10.16 | 90 |  |  | 
+| J4 | [oomp_electronic_header_2d54_mm_6_pin](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2d54_mm_6_pin) |  |  | 6.35 | -10.16 | -90 |  |  | 
 
 

@@ -8,81 +8,57 @@ viewBox="0 0 20000 20000"
   <style type="text/css">
    <![CDATA[
     .str2 {stroke:black;stroke-width:17.64;stroke-linecap:round;stroke-linejoin:round}
-    .str0 {stroke:black;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
-    .str1 {stroke:aqua;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:black;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str0 {stroke:aqua;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
     .fil0 {fill:none}
    ]]>
   </style>
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_872836848">
-   <path class="fil0 str0" d="M7800 11700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
-   <circle class="fil0 str0" cx="10000" cy="10000" r="300"/>
-   <circle class="fil0 str0" cx="10000" cy="8500" r="300"/>
-   <circle class="fil0 str0" cx="10000" cy="11500" r="300"/>
-   <circle class="fil0 str0" cx="8500" cy="10000" r="300"/>
-   <circle class="fil0 str0" cx="8500" cy="8500" r="300"/>
-   <circle class="fil0 str0" cx="8500" cy="11500" r="300"/>
-   <circle class="fil0 str0" cx="11500" cy="10000" r="300"/>
-   <circle class="fil0 str0" cx="11500" cy="8500" r="300"/>
-   <circle class="fil0 str0" cx="11500" cy="11500" r="300"/>
-   <circle class="fil0 str0" cx="9250" cy="11500" r="150"/>
-   <circle class="fil0 str0" cx="10750" cy="11500" r="150"/>
-   <circle class="fil0 str0" cx="9250" cy="10000" r="150"/>
-   <circle class="fil0 str0" cx="10750" cy="10000" r="150"/>
-   <circle class="fil0 str0" cx="9250" cy="8500" r="150"/>
-   <circle class="fil0 str0" cx="10750" cy="8500" r="150"/>
-   <circle class="fil0 str0" cx="8500" cy="10750" r="150"/>
-   <circle class="fil0 str0" cx="10000" cy="10750" r="150"/>
-   <circle class="fil0 str0" cx="11500" cy="10750" r="150"/>
-   <circle class="fil0 str0" cx="8500" cy="9250" r="150"/>
-   <circle class="fil0 str0" cx="10000" cy="9250" r="150"/>
-   <circle class="fil0 str0" cx="11500" cy="9250" r="150"/>
+  <circle class="fil0 str0" cy="20000" r="300"/>
+  <circle class="fil0 str0" cx="750" cy="20000" r="150"/>
+  <circle class="fil0 str0" cy="20750" r="150"/>
+  <circle class="fil0 str0" cy="19250" r="150"/>
+  <path class="fil0 str0" d="M-2000 20750l0 -1500c0,-276 224,-500 500,-500l3000 0c276,0 500,224 500,500l0 1500c0,276 -224,500 -500,500l-3000 0c-276,0 -500,-224 -500,-500z"/>
+  <circle class="fil0 str0" cx="-1500" cy="20750" r="150"/>
+  <circle class="fil0 str0" cx="1500" cy="20750" r="150"/>
+  <circle class="fil0 str0" cx="-1500" cy="19250" r="150"/>
+  <circle class="fil0 str0" cx="1500" cy="19250" r="150"/>
+  <circle class="fil0 str0" cx="-1500" cy="19250" r="500"/>
+  <circle class="fil0 str0" cx="1500" cy="20750" r="500"/>
+  <circle class="fil0 str0" cx="-1500" cy="20750" r="500"/>
+  <circle class="fil0 str0" cx="1500" cy="19250" r="500"/>
+  <rect class="fil0 str1" x="585" y="20966" width="100" height="100"/>
+  <rect class="fil0 str1" x="331" y="20966" width="100" height="100"/>
+  <rect class="fil0 str1" x="77" y="20966" width="100" height="100"/>
+  <rect class="fil0 str1" x="-177" y="20966" width="100" height="100"/>
+  <rect class="fil0 str1" x="-431" y="20966" width="100" height="100"/>
+  <rect class="fil0 str1" x="-685" y="20966" width="100" height="100"/>
+  <g id="_790492432">
+   <circle class="fil0 str0" cx="-1500" cy="19813" r="150"/>
+   <circle class="fil0 str0" cx="-1500" cy="20188" r="150"/>
+   <line class="fil0 str0" x1="-1650" y1="19813" x2="-1650" y2= "20188" />
+   <line class="fil0 str0" x1="-1350" y1="19813" x2="-1350" y2= "20188" />
   </g>
-  <circle class="fil0 str1" cy="20000" r="300"/>
-  <circle class="fil0 str1" cx="750" cy="20000" r="150"/>
-  <circle class="fil0 str1" cy="20750" r="150"/>
-  <circle class="fil0 str1" cy="19250" r="150"/>
-  <path class="fil0 str1" d="M-2000 20750l0 -1500c0,-276 224,-500 500,-500l3000 0c276,0 500,224 500,500l0 1500c0,276 -224,500 -500,500l-3000 0c-276,0 -500,-224 -500,-500z"/>
-  <circle class="fil0 str1" cx="-1500" cy="20750" r="150"/>
-  <circle class="fil0 str1" cx="1500" cy="20750" r="150"/>
-  <circle class="fil0 str1" cx="-1500" cy="19250" r="150"/>
-  <circle class="fil0 str1" cx="1500" cy="19250" r="150"/>
-  <circle class="fil0 str1" cx="-1500" cy="19250" r="500"/>
-  <circle class="fil0 str1" cx="1500" cy="20750" r="500"/>
-  <circle class="fil0 str1" cx="-1500" cy="20750" r="500"/>
-  <circle class="fil0 str1" cx="1500" cy="19250" r="500"/>
-  <rect class="fil0 str0" x="585" y="20966" width="100" height="100"/>
-  <rect class="fil0 str0" x="331" y="20966" width="100" height="100"/>
-  <rect class="fil0 str0" x="77" y="20966" width="100" height="100"/>
-  <rect class="fil0 str0" x="-177" y="20966" width="100" height="100"/>
-  <rect class="fil0 str0" x="-431" y="20966" width="100" height="100"/>
-  <rect class="fil0 str0" x="-685" y="20966" width="100" height="100"/>
-  <g id="_792181984">
-   <circle class="fil0 str1" cx="-1500" cy="19813" r="150"/>
-   <circle class="fil0 str1" cx="-1500" cy="20188" r="150"/>
-   <line class="fil0 str1" x1="-1650" y1="19813" x2="-1650" y2= "20188" />
-   <line class="fil0 str1" x1="-1350" y1="19813" x2="-1350" y2= "20188" />
+  <g id="_790490480">
+   <circle class="fil0 str0" cx="1500" cy="19813" r="150"/>
+   <circle class="fil0 str0" cx="1500" cy="20188" r="150"/>
+   <line class="fil0 str0" x1="1350" y1="19813" x2="1350" y2= "20188" />
+   <line class="fil0 str0" x1="1650" y1="19813" x2="1650" y2= "20188" />
   </g>
-  <g id="_878298224">
-   <circle class="fil0 str1" cx="1500" cy="19813" r="150"/>
-   <circle class="fil0 str1" cx="1500" cy="20188" r="150"/>
-   <line class="fil0 str1" x1="1350" y1="19813" x2="1350" y2= "20188" />
-   <line class="fil0 str1" x1="1650" y1="19813" x2="1650" y2= "20188" />
+  <g id="_790488368">
+   <rect class="fil0 str1" x="585" y="18934" width="100" height="100"/>
+   <rect class="fil0 str1" x="331" y="18934" width="100" height="100"/>
+   <rect class="fil0 str1" x="77" y="18934" width="100" height="100"/>
+   <rect class="fil0 str1" x="-177" y="18934" width="100" height="100"/>
+   <rect class="fil0 str1" x="-431" y="18934" width="100" height="100"/>
+   <rect class="fil0 str1" x="-685" y="18934" width="100" height="100"/>
+   <rect class="fil0 str1" x="-762" y="18857" width="1524" height="254"/>
   </g>
-  <g id="_878295408">
-   <rect class="fil0 str0" x="585" y="18934" width="100" height="100"/>
-   <rect class="fil0 str0" x="331" y="18934" width="100" height="100"/>
-   <rect class="fil0 str0" x="77" y="18934" width="100" height="100"/>
-   <rect class="fil0 str0" x="-177" y="18934" width="100" height="100"/>
-   <rect class="fil0 str0" x="-431" y="18934" width="100" height="100"/>
-   <rect class="fil0 str0" x="-685" y="18934" width="100" height="100"/>
-   <rect class="fil0 str0" x="-762" y="18857" width="1524" height="254"/>
-  </g>
-  <rect class="fil0 str0" x="-762" y="20889" width="1524" height="254"/>
-  <polygon class="fil0 str0" points="-1000,14650 1000,14650 1000,16350 -1000,16350 "/>
-  <g id="_878283696">
+  <rect class="fil0 str1" x="-762" y="20889" width="1524" height="254"/>
+  <polygon class="fil0 str1" points="-1000,14650 1000,14650 1000,16350 -1000,16350 "/>
+  <g id="_790480080">
    <g>
     <rect class="fil0 str2" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -786.992 15461.5)" width="97" height="97"/>
     <rect class="fil0 str2" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -786.992 15588.5)" width="97" height="97"/>
@@ -97,8 +73,8 @@ viewBox="0 0 20000 20000"
     <rect class="fil0 str2" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -786.992 14826.5)" width="97" height="97"/>
     <rect class="fil0 str2" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -786.992 16223.5)" width="97" height="97"/>
    </g>
-   <rect class="fil0 str0" transform="matrix(4.16065E-013 -15.7097 1.30914 3.46721E-014 -825.501 16262)" width="97" height="97"/>
+   <rect class="fil0 str1" transform="matrix(4.16065E-013 -15.7097 1.30914 3.46721E-014 -825.501 16262)" width="97" height="97"/>
   </g>
-  <rect class="fil0 str0" x="-1000" y="19600" width="1200" height="1200"/>
+  <rect class="fil0 str1" x="-1000" y="19600" width="1200" height="1200"/>
  </g>
 </svg>
