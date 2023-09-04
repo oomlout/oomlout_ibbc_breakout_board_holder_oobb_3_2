@@ -1,2 +1,6 @@
+git pull
 action_generate_all.bat
-pause
+git add -A
+git commit -m "Generated outputs"
+git push
+
