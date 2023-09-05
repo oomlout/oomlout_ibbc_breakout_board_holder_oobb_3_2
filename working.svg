@@ -35,19 +35,19 @@ viewBox="0 0 20000 20000"
   <rect class="fil0 str1" x="-177" y="20966" width="100" height="100"/>
   <rect class="fil0 str1" x="-431" y="20966" width="100" height="100"/>
   <rect class="fil0 str1" x="-685" y="20966" width="100" height="100"/>
-  <g id="_892984416">
+  <g id="_836347296">
    <circle class="fil0 str0" cx="-1500" cy="19813" r="150"/>
    <circle class="fil0 str0" cx="-1500" cy="20188" r="150"/>
    <line class="fil0 str0" x1="-1650" y1="19813" x2="-1650" y2= "20188" />
    <line class="fil0 str0" x1="-1350" y1="19813" x2="-1350" y2= "20188" />
   </g>
-  <g id="_892982624">
+  <g id="_836345952">
    <circle class="fil0 str0" cx="1500" cy="19813" r="150"/>
    <circle class="fil0 str0" cx="1500" cy="20188" r="150"/>
    <line class="fil0 str0" x1="1350" y1="19813" x2="1350" y2= "20188" />
    <line class="fil0 str0" x1="1650" y1="19813" x2="1650" y2= "20188" />
   </g>
-  <g id="_892990752">
+  <g id="_836327328">
    <rect class="fil0 str1" x="585" y="18934" width="100" height="100"/>
    <rect class="fil0 str1" x="331" y="18934" width="100" height="100"/>
    <rect class="fil0 str1" x="77" y="18934" width="100" height="100"/>
@@ -58,7 +58,7 @@ viewBox="0 0 20000 20000"
   </g>
   <rect class="fil0 str1" x="-762" y="20889" width="1524" height="254"/>
   <polygon class="fil0 str1" points="-1000,14650 1000,14650 1000,16350 -1000,16350 "/>
-  <g id="_792734640">
+  <g id="_836321472">
    <g>
     <rect class="fil0 str2" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -786.992 15461.5)" width="97" height="97"/>
     <rect class="fil0 str2" transform="matrix(1.36504E-014 -0.515411 0.515411 1.36504E-014 -786.992 15588.5)" width="97" height="97"/>
